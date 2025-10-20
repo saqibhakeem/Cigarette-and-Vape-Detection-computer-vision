@@ -9,3 +9,4 @@ pillow
 av
 aiortc
 pyarrow
+opencv-python
