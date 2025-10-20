@@ -5,7 +5,7 @@ from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 from ultralytics import YOLO
 
 # Absolute path to your model
-MODEL_PATH = r"D:\Projects\AI-ML\Ciggarrete and Vape Detection\best.pt"
+MODEL_PATH = r"\best.pt"
 
 # Load YOLO model once
 model = YOLO(MODEL_PATH)
